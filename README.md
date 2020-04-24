@@ -8,5 +8,5 @@ Your project proposal and final project will be graded based solely on the corre
 
 For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XX is replaced by your group number):
 
-- 'ProjectProposal_groupXX.ipynb'
-- 'FinalProject_groupXX.ipynb'
+- 'ProjectProposal_group62.ipynb'
+- 'FinalProject_group62.ipynb'

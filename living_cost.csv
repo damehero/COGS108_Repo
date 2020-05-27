@@ -26,7 +26,7 @@ Omaha,20,N/A,,
 Springfield,20,N/A,,
 Cedar Park,19,N/A,,
 Greensboro,19,N/A,,
-Pleasanton,19,N/A,36941,36941
+Pleasanton,19,N/A,FALSE,36941
 Sterling,19,N/A,42912,42912
 Tallahassee,19,N/A,54403,54403
 United States,12,N/A,56437,56437
@@ -39,3 +39,10 @@ Bethesda,5,N/A,,
 Jacksonville,5,75.04,,
 Redwood City,5,N/A,,
 San Francisco,5,91.14,,
+,,,,
+,,,,
+cost index,,,,
+Source: https://www.numbeo.com/cost-of-living/region_rankings_current.jsp?region=021,,,,
+INCOMPLETE,,,,
+,,,,
+monthly cost,,,,

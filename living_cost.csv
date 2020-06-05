@@ -1,48 +1,40 @@
-city,count,cost index,,
-Salt Lake City,43,64.5,,
-Burlington,40,N/A,,
-Chicago,34,81.87,,
-New York,30,100,,
-Seattle,29,87.13,,
-Annapolis Junction,26,N/A,,
-Kansas City,26,69.51,,
-San Jose,26,81.59,,
-Cincinnati,24,63.67,,
-Phoenix,24,68.08,,
-Waltham,24,N/A,,
-Blacksburg,23,N/A,,
-Washington,23,84.35,,
-Chantilly,22,N/A,,
-Charlotte,22,81.38,,
-Edmond,22,N/A,,
-Palo Alto,22,N/A,,
-Tempe,22,N/A,,
-Peoria Heights,21,N/A,,
-Arlington,20,N/A,,
-Chubbuck,20,N/A,,
-Emeryville,20,N/A,,
-McLean,20,N/A,,
-Omaha,20,N/A,,
-Springfield,20,N/A,,
-Cedar Park,19,N/A,,
-Greensboro,19,N/A,,
-Pleasanton,19,N/A,FALSE,36941
-Sterling,19,N/A,42912,42912
-Tallahassee,19,N/A,54403,54403
-United States,12,N/A,56437,56437
-Boston,11,87.27,,
-Reston,7,N/A,,
-Herndon,6,N/A,,
-San Diego,6,77.18,,
-Sunnyvale,6,N/A,,
-Bethesda,5,N/A,,
-Jacksonville,5,75.04,,
-Redwood City,5,296.5,,
-San Francisco,5,91.14,,
-,,,,
-,,,,
-cost index,,,,
-Source: https://www.numbeo.com/cost-of-living/region_rankings_current.jsp?region=021,,,,
-INCOMPLETE,,,,
-,,,,
-monthly cost,,,,
+city,count,cost index
+Salt Lake City,43,118.90
+Burlington,40,150.50
+Chicago,34,106.90
+New York,30,187.20
+Seattle,29,172.30
+San Jose,26,214.50
+Annapolis Junction,26,125.60
+Kansas City,26,81.60
+Waltham,24,151.70
+Phoenix,24,103.70
+Cincinnati,24,84.60
+Washington,23,152.10
+Blacksburg,23,103.00
+Palo Alto,22,471.00
+Charlotte,22,154.80
+Tempe,22,108.10
+Edmond,22,99.10
+Chantilly,22,98.90
+Peoria Heights,21,71.60
+McLean,20,203.00
+Arlington,20,168.70
+Emeryville,20,153.50
+Springfield,20,146.20
+Chubbuck,20,92.50
+Omaha,20,89.80
+Pleasanton,19,227.80
+Sterling,19,134.40
+Cedar Park,19,107.60
+Tallahassee,19,93.80
+Greensboro,19,83.90
+Boston,11,162.40
+Reston,7,138.90
+Sunnyvale,6,300.10
+San Diego,6,160.10
+Herndon,6,149.70
+Redwood City,5,296.50
+San Francisco,5,269.30
+Bethesda,5,189.20
+Jacksonville,5,93.50

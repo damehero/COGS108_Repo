@@ -1,84 +1,41 @@
-<<<<<<< HEAD
 city,count,cost index
-Salt Lake City,43,118.90
-Burlington,40,150.50
-Chicago,34,106.90
-New York,30,187.20
-Seattle,29,172.30
-San Jose,26,214.50
-Annapolis Junction,26,125.60
-Kansas City,26,81.60
-Waltham,24,151.70
-Phoenix,24,103.70
-Cincinnati,24,84.60
-Washington,23,152.10
-Blacksburg,23,103.00
-Palo Alto,22,471.00
-Charlotte,22,154.80
-Tempe,22,108.10
-Edmond,22,99.10
-Chantilly,22,98.90
-Peoria Heights,21,71.60
-McLean,20,203.00
-Arlington,20,168.70
-Emeryville,20,153.50
-Springfield,20,146.20
-Chubbuck,20,92.50
-Omaha,20,89.80
-Pleasanton,19,227.80
-Sterling,19,134.40
-Cedar Park,19,107.60
-Tallahassee,19,93.80
-Greensboro,19,83.90
-Boston,11,162.40
-Reston,7,138.90
-Sunnyvale,6,300.10
-San Diego,6,160.10
-Herndon,6,149.70
-Redwood City,5,296.50
-San Francisco,5,269.30
-Bethesda,5,189.20
-Jacksonville,5,93.50
+Salt Lake City,43,118.9
+Burlington,40,150.5
+Chicago,34,106.9
+New York,30,187.2
+Seattle,29,172.3
+San Jose,26,214.5
+Annapolis Junction,26,125.6
+Kansas City,26,81.6
+Waltham,24,151.7
+Phoenix,24,103.7
+Cincinnati,24,84.6
+Washington,23,152.1
+Blacksburg,23,103
+Palo Alto,22,471
+Charlotte,22,154.8
+Tempe,22,108.1
+Edmond,22,99.1
+Chantilly,22,98.9
+Peoria Heights,21,71.6
+McLean,20,203
+Arlington,20,168.7
+Emeryville,20,153.5
+Springfield,20,146.2
+Chubbuck,20,92.5
+Omaha,20,89.8
+Pleasanton,19,227.8
+Sterling,19,134.4
+Cedar Park,19,107.6
+Tallahassee,19,93.8
+Greensboro,19,83.9
+Boston,11,162.4
+Reston,7,138.9
+Sunnyvale,6,300.1
+San Diego,6,160.1
+Herndon,6,149.7
+Redwood City,5,296.5
+San Francisco,5,269.3
+Bethesda,5,189.2
+Jacksonville,5,93.5
 Colorado Springs,5,104.5
-=======
-city,count,cost index
-Salt Lake City,43,118.90
-Burlington,40,150.50
-Chicago,34,106.90
-New York,30,187.20
-Seattle,29,172.30
-San Jose,26,214.50
-Annapolis Junction,26,125.60
-Kansas City,26,81.60
-Waltham,24,151.70
-Phoenix,24,103.70
-Cincinnati,24,84.60
-Washington,23,152.10
-Blacksburg,23,103.00
-Palo Alto,22,471.00
-Charlotte,22,154.80
-Tempe,22,108.10
-Edmond,22,99.10
-Chantilly,22,98.90
-Peoria Heights,21,71.60
-McLean,20,203.00
-Arlington,20,168.70
-Emeryville,20,153.50
-Springfield,20,146.20
-Chubbuck,20,92.50
-Omaha,20,89.80
-Pleasanton,19,227.80
-Sterling,19,134.40
-Cedar Park,19,107.60
-Tallahassee,19,93.80
-Greensboro,19,83.90
-Boston,11,162.40
-Reston,7,138.90
-Sunnyvale,6,300.10
-San Diego,6,160.10
-Herndon,6,149.70
-Redwood City,5,296.50
-San Francisco,5,269.30
-Bethesda,5,189.20
-Jacksonville,5,93.50
->>>>>>> 5909755636b9f0fe6dd497ef3c9bd4549aa0592e

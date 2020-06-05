@@ -1,4 +1,4 @@
-,Location,ds_count
+city,Location,ds_count
 San Francisco,110,110
 New York,82,82
 Los Angeles,63,63
@@ -7,26 +7,26 @@ Denver,41,41
 Chicago,41,41
 Saint Louis,28,28
 Boston,26,26
-Dallas,24,24
 Houston,24,24
-Philadelphia,23,23
+Dallas,24,24
 San Jose,23,23
+Philadelphia,23,23
 Mountain View,22,22
-Columbia,21,21
 United St,21,21
+Columbia,21,21
 Framingham,20,20
 McLean,20,20
-Kansas City,19,19
-Boxborough,19,19
+East Hampton,19,19
 Carson City,19,19
 Rogers,19,19
-East Hampton,19,19
+Boxborough,19,19
+Kansas City,19,19
 Washington,9,9
-Seattle,8,8
 Austin,8,8
+Seattle,8,8
 Irvine,7,7
-Salt Lake City,6,6
 Atlanta,6,6
-Milwaukee,5,5
+Salt Lake City,6,6
 Chi,5,5
+Milwaukee,5,5
 Indianapolis,5,5

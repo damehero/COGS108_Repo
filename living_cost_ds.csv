@@ -1,10 +1,10 @@
-,Location,dsgn_count
+city,Location,dsgn_count
 New York,101,101
 San Francisco,99,99
 Boston,53,53
 Dallas,25,25
-Pittsburgh,25,25
 Washington,25,25
+Pittsburgh,25,25
 Seattle,25,25
 Chicago,24,24
 Springfield,23,23
@@ -12,25 +12,25 @@ Redwood City,21,21
 Cambridge,21,21
 Lexington,21,21
 San Jose,21,21
-San Diego,20,20
-Gaithersburg,20,20
-Waltham,20,20
 Addison,20,20
-Fairfax,19,19
-Bothell,19,19
+Waltham,20,20
+Gaithersburg,20,20
+San Diego,20,20
 San Antonio,19,19
-Newton,18,18
-New Brunswick,18,18
-Melbourne,18,18
+Bothell,19,19
+Fairfax,19,19
 Fargo,18,18
 Basking Ridge,18,18
+Melbourne,18,18
+New Brunswick,18,18
 Aberdeen,18,18
 Gwynn Oak,18,18
+Newton,18,18
 Detroit,8,8
 Herndon,7,7
-Saint Louis,6,6
-Austin,6,6
 McLean,6,6
+Austin,6,6
+Saint Louis,6,6
 Richmond,6,6
-Chantilly,5,5
 Mountain View,5,5
+Chantilly,5,5
